@@ -161,6 +161,10 @@ __1.4.1 การ clone repository ด้วย command line (git bash)__
     $ ls
 
 เราจะเห็นรายการไฟล์ถูกแสดงขึ้นมา
+
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part7.PNG"> </p>
+
 สร้างโฟลเดอร์สำหรับเก็บงานในวิชาการทดลอง (ในที่นี้ชื่อว่า CL2560 ย่อมาจาก Computer Laboratory 2560) โดยใช้คำสั่ง 
 
     $ mkdir CL2560
