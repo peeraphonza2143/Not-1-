@@ -415,7 +415,8 @@ __(ข)__ คลิกที่ปุ่ม History
 
 <p align="center"> <b>รูปที่ 1-28 </b>ประวัติการแก้ไขไฟล์</p>
 
-
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part27.PNG"> </p>
 
 ## __`จบการทดลอง`__
 
