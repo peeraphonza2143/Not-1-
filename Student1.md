@@ -11,6 +11,7 @@
 11.61030001	กรุงไทย	สุ่มพ่วง
 
 ผลการทดลอง
+
 <p align="center">  <img src="./IMAGES HOMEWORK/Notepad Student.PNG"> </p>
 
 12.61030017		ณปกรณ์	สุขเกษม
@@ -25,4 +26,5 @@
 21.61030242		วรินรำไพ	ขุนภักดี
 
 ผลการทดลอง
+
 <p align="center">  <img src="./IMAGES HOMEWORK/Notepad Student2.PNG"> </p>
