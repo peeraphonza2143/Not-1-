@@ -281,6 +281,9 @@ __1.5.2 บันทึกการเปลี่ยนแปลงบน local
 เพิ่มไฟล์ที่เปลี่ยนแปลง เข้าสู่รายการ commit โดยใช้คำสั่งต่อไปนี้
 
     $ git add README.md
+    
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part18.PNG"> </p>
 
 ตรวจสอบการเปลี่ยนแปลงใน git bash โดยพิมพ์คำสั่ง git status แล้วสังเกตุผลที่ได้จากการรันคำสั่ง
 
@@ -305,6 +308,9 @@ Commit ไฟล์ที่เปลี่ยนแปลง เข้าสู
 
 <p align="center"> <b>รูปที่ 1-19 </b>ผลจากการทำ git commit  </p>
 
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part19.PNG"> </p>
+
 หมายเหตุ  รูปแบบของการ commit ประกอบด้วย คำสั่ง  git commit -m “THIS IS A COMMIT MESSAGE” โดยที่ commit message ควรเป็นข้อความที่สื่อความหมาย มีความยาวไม่มากนัก แต่ไม่สั้นจนเกินไป เช่น “1”, “2”  หรือ “a” เนื่องจากเมื่อพัฒนาไปหลายๆ รุ่น จะไม่สามารถทำความเข้าใจเหตุผลที่แก้ไข source code นั้นๆ ได้ และในการเปลี่ยนแปลงแต่ละครั้ง git จะนำ commit message นี้ไปใช้ร่วมกับการเปลี่ยนแปลงเสมอ
 
 ### __1.6 การซิงค์การเปลี่ยนแปลงระหว่าง local computer และ server__
@@ -323,11 +329,17 @@ __1.6.1 การ push ขึ้นสู่ server__
 
 <p align="center"> <b>รูปที่ 1-20 </b>ผลจากการทำคำสั่ง git push</p>
 
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part20.PNG"> </p>
+
 เมื่อเราทำการ push repository ขึ้นสู่ server แล้ว ก็ต้องทดสอบผลจากการ push  โดยการไป refresh web browser ที่สร้าง repository ไว้ ดังรูปที่ 9
 
 <p align="center">  <img src="./images/fig 1-21.png"> </p>
 
 <p align="center"> <b>รูปที่ 1-21 </b>การเปลี่ยนแปลงที่เกิดขึ้นบน server</p>
+
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part21.PNG"> </p>
 
 __1.6.2 การ pull มาจาก server__
 
