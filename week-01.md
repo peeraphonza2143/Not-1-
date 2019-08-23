@@ -67,6 +67,10 @@ __1.2.5__ บอกให้ Git รู้จักชื่อของเร�
 <p align="center">  <img src="./images/fig 1-4.png"> </p>
 <p align="center"> <b>รูปที่ 1-4</b> git config --global user.name `git`</p>
 
+
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part3.PNG"> </p>
+
 __1.2.6__ บอกให้ Git รู้จัก email ของเรา  โดยพิมพ์คำสั่งต่อไปนี้
 
     $ git config --global user.email “USER EMAIL ADDRESS”
