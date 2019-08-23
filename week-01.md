@@ -217,6 +217,12 @@ ___`[YOUR REPOSITORY NAME]`___ คือชื่อ repository ของเร�
 ผลการทดลอง
 <p align="center">  <img src="./IMAGES HOMEWORK/Part11.PNG"> </p>
 
+ผลการทดลอง 1.14
+<p align="center">  <img src="./IMAGES HOMEWORK/Part12.PNG"> </p>
+
+ผลการทดลอง 1.14
+<p align="center">  <img src="./IMAGES HOMEWORK/Part13.PNG"> </p>
+
 ทดลองเรียกดูเนื้อหาของไฟล์ โดยใช้คำสั่ง `cat`
 
 <p align="center">  <img src="./images/fig 1-14.png"> </p>
