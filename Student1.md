@@ -28,3 +28,12 @@
 ผลการทดลอง
 
 <p align="center">  <img src="./IMAGES HOMEWORK/Notepad Student2.PNG"> </p>
+
+บันทึกผลการทดลองที่ 2 
+<p align="center">  <img src="./IMAGES HOMEWORK/README1.PNG"> </p>
+<p align="center">  <img src="./IMAGES HOMEWORK/README2.PNG"> </p>
+<p align="center">  <img src="./IMAGES HOMEWORK/README3.PNG"> </p>
+<p align="center">  <img src="./IMAGES HOMEWORK/README4.PNG"> </p>
+<p align="center">  <img src="./IMAGES HOMEWORK/README5.PNG"> </p>
+<p align="center">  <img src="./IMAGES HOMEWORK/README6.PNG"> </p>
+<p align="center">  <img src="./IMAGES HOMEWORK/README7.PNG"> </p>
