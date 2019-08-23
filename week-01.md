@@ -350,17 +350,26 @@ __1.6.2 การ pull มาจาก server__
 
 <p align="center"> <b>รูปที่ 1-22 </b>เข้าสู่โหมดการแก้ไขไฟล์ด้วย Github Text Editor</p>
 
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part22.PNG"> </p>
+
 เพิ่มข้อความที่บรรทัดล่างสุดดังตัวอย่าง
 
 <p align="center">  <img src="./images/fig 1-23.png"> </p>
 
 <p align="center"> <b>รูปที่ 1-23 </b>เพิ่มข้อความบางอย่างใน Github Text Editor</p>
 
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part23.PNG"> </p>
+
 เพิ่มข้อความในช่อง Commit changes และกดปุ่ม Commit changes สีเขียว
 
 <p align="center">  <img src="./images/fig 1-24.png"> </p>
 
 <p align="center"> <b>รูปที่ 1-24 </b>เพิ่มข้อความ Commit changes</p>
+
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part24.PNG"> </p>
 
 กลับมาที่ git bash พิมพ์คำสั่ง git status สังเกตุผลการทำงาน
 
@@ -369,6 +378,9 @@ __1.6.2 การ pull มาจาก server__
 ที่ git bash พิมพ์คำสั่ง git pull 
 
     $ git pull
+    
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part25.PNG"> </p>
 
 <p align="center">  <img src="./images/fig 1-25.png"> </p>
 
@@ -381,6 +393,9 @@ __1.6.2 การ pull มาจาก server__
 <p align="center">  <img src="./images/fig 1-26.png"> </p>
 
 <p align="center"> <b>รูปที่ 1-26 </b>การเปลี่ยนแปลงในไฟล์เอกสาร  README.md</p>
+
+ผลการทดลอง
+<p align="center">  <img src="./IMAGES HOMEWORK/Part26.PNG"> </p>
 
 ### __1.7 การตรวจสอบประวัติการเปลี่ยนแปลงของไฟล์__
 
